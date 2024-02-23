@@ -1,0 +1,3 @@
+This is a very simplified version of a program that I made for my family's annual Secret Santa drawing. The original version generated and sent text messages to each recipient, but the system that it used was closed.
+This program can be downloaded and run through command line and will instruct the user to write out the names of everyone who will be included in the drawing. It will then shuffle the names in a statistically fair way that will guarantee that a person will not draw their own names.
+After shuffling, the program will then output a text file of the generated pairs for whoever is organizing the event to use.
